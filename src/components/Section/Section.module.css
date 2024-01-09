@@ -1,0 +1,7 @@
+.section {
+   margin: 0 auto;
+   max-width: 500px;
+    display: flex;
+    flex-direction: column;
+   
+}
